@@ -1,1 +1,1 @@
-# Sports_Image_Classification
+# Sports Image Classification
