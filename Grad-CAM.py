@@ -4,11 +4,6 @@ import numpy as np
 import tensorflow as tf
 from tensorflow import keras
 
-# Display
-from IPython.display import Image, display
-import matplotlib.pyplot as plt
-import matplotlib.cm as cm
-
 # The Grad-CAM algorithm
 
 
